@@ -2,7 +2,7 @@ CONWAY'S GAME OF LIFE
 TEAM:
     María José Castillo Gallo	0233815
     Annia Navarro Medina	0236619
-    Fabián Ruiz Sánchez	     0233807
+    Fabián Ruiz Sánchez	            0233807
 
 
 LIBRARIES:
