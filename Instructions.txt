@@ -1,0 +1,22 @@
+CONWAY'S GAME OF LIFE
+TEAM:
+    María José Castillo Gallo	0233815
+    Annia Navarro Medina	0236619
+    Fabián Ruiz Sánchez	0233807
+
+
+LIBRARIES:
+    Numpy
+        pip install numpy
+
+    Matplotlib
+        pip install matplotlib
+
+INSTRUCTIONS:
+    The code uses a ".txt" file where the first input line is the universe size ( the program will create a square grid of that size ), followed by a blank space, and then the number of generations.
+    The next lines, following the same format of making two columns, are the "X" and "Y" coordinates for each allive cell that the program will create.
+
+    The program requires the user to type the ".txt" file name in line 17. In this case, we have created the file named "Test.txt" with the coordinates. 
+    Once the program is ran, it will create a "Results.txt" file, where the results of each simulation can be found. The results will be added to this file each time the users runs the simulation.
+    
+
